@@ -1,6 +1,6 @@
 ### Hi there, I am Ekin 👋
 
-⚡ I’m a passionate PHP and Javascript Developer. <br>
+⚡ I’m a passionate PHP and JavaScript Developer. <br>
 🔭 Currently working on REDCap Modules, Tools and EM Framework improvements.
 <!--
 **tertek/tertek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
