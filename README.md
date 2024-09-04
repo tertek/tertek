@@ -1,7 +1,5 @@
 ### Hi there, I am Ekin 👋
 
-⚡ I’m a passionate Software Engineer with a modern full stack. <br>
-🔭 Currently my work is focused on REDCap Modules, Tools and EM Framework improvements.
 <!--
 **tertek/tertek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
