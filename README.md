@@ -1,5 +1,7 @@
 ### Hi there, I am Ekin 👋
 
+linux devops bash containers ansible laravel
+
 <!--
 **tertek/tertek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
